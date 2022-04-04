@@ -46,6 +46,7 @@ function AssigmentListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-green-600 border border-transparent rounded-bl-lg hover:text-gray-700">
+                    <img src="https://www.pngfind.com/pngs/m/0-226_image-checkmark-green-check-mark-circle-hd-png.png" className="h-4 w-4 mr-2" />
 										Submit
 									</a>
 								</div>
@@ -83,6 +84,7 @@ function AssigmentListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-green-600 border border-transparent rounded-bl-lg hover:text-gray-700">
+                    <img src="https://www.pngfind.com/pngs/m/0-226_image-checkmark-green-check-mark-circle-hd-png.png" className="h-4 w-4 mr-2" />
 										Submit
 									</a>
 								</div>
@@ -120,6 +122,7 @@ function AssigmentListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-green-600 border border-transparent rounded-bl-lg hover:text-gray-700">
+                    <img src="https://www.pngfind.com/pngs/m/0-226_image-checkmark-green-check-mark-circle-hd-png.png" className="h-4 w-4 mr-2" />
 										Submit
 									</a>
 								</div>
@@ -157,6 +160,7 @@ function AssigmentListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-green-600 border border-transparent rounded-bl-lg hover:text-gray-700">
+                    <img src="https://www.pngfind.com/pngs/m/0-226_image-checkmark-green-check-mark-circle-hd-png.png" className="h-4 w-4 mr-2" />
 										Submit
 									</a>
 								</div>

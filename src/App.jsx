@@ -8,6 +8,7 @@ import Logout from './Logout';
 import MainLayout from './MainLayout';
 import NotFound from './NotFound';
 import AssigmentDetailPage from './AssigmentDetailPage';
+import StudentList from './StudentList';
 
 function App() {
 	return (
@@ -17,7 +18,7 @@ function App() {
 			<Route path="/" element={<MainLayout />}>
 				<Route path="lectures" element={<LectureListPage />} />
 				<Route path="assigments" element={<AssigmentListPage />} />
-
+<Route path="students" element={<StudentList />} />
 				<Route path="profile" element={<ProfilePage />} />
         <Route path="assigments/:assigmentNumber/details" element={<AssigmentDetailPage />} />
 			</Route>

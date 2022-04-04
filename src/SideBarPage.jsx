@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import StudentList from './StudentList';
 
 function SideBarPage() {
 	return (
@@ -42,7 +43,16 @@ function SideBarPage() {
 					Assigments
             </span>
           </Link>
-        
+<Link to="/students" className="text-gray-300 hover:bg-gray-700 hover:text-white group rounded-md undefined px-2 py-2 items-center font-medium text-sm">
+					{' '}
+          <span className="flex">
+					<img
+						className="w-4 h-4 mr-3"
+						src="https://www.seekpng.com/png/full/126-1269312_students-student-icon-white-png.png"
+					/>
+					Students
+            </span>
+				</Link>        
 			</div>
 			<div className="flex flex-col ml-4 mb-5">
 				<Link to="/profile" className="text-gray-300 hover:bg-gray-700 hover:text-white group rounded-md undefined px-2 py-2 items-center font-medium text-sm">

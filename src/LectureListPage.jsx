@@ -36,6 +36,7 @@ function LectureListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-gray-500 border border-transparent rounded-bl-lg hover:text-gray-700">
+                     <img className="h-4 w-4 mr-3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/800px-External.svg.png" />
 										Watch/Download Recording
 									</a>
 								</div>
@@ -69,6 +70,7 @@ function LectureListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-gray-500 border border-transparent rounded-bl-lg hover:text-gray-700">
+                    <img className="h-4 w-4 mr-3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/800px-External.svg.png" />
 										Watch/Download Recording
 									</a>
 								</div>
@@ -102,6 +104,8 @@ function LectureListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-gray-500 border border-transparent rounded-bl-lg hover:text-gray-700">
+                     <img className="h-4 w-4 mr-3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/800px-External.svg.png" />
+                     
 										Watch/Download Recording
 									</a>
 								</div>
@@ -135,6 +139,7 @@ function LectureListPage() {
 							<div className="flex justify-center divide-x divide-gray-200">
 								<div className="flex flex-1 px-2 sm:px-8">
 									<a className="relative inline-flex items-center text-center w-full justify-center py-4 -mr-px text-sm font-medium text-gray-500 border border-transparent rounded-bl-lg hover:text-gray-700">
+                    <img className="h-4 w-4 mr-3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/800px-External.svg.png" />
 										Watch/Download Recording
 									</a>
 								</div>
